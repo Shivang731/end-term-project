@@ -53,4 +53,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Lokesh
+Shivang
